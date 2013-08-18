@@ -1,0 +1,21 @@
+{
+    "name": "shevtiawan/tiket",
+    "description": "tiket library",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "andri setiawan",
+            "email": "shevtiawan@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Shevtiawan\\Tiket": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
