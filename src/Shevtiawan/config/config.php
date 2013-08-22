@@ -1,6 +1,6 @@
 <?php
 
 return array(
-	'CONSUMER_KEY'    => '',
-	'CONSUMER_SECRET' => ''
+	'DEVELOPMENT_STAGE' => true,
+	'SECRET_KEY' => "yourTIKETsecretkey",
 );
